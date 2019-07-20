@@ -1,4 +1,7 @@
 # UI Concept - Weather
+* Weather API by: openweathermap.org
+<br>
+* Change api key in WeatherViewController -> loadWeather -> url
 <br>
 <h3>Screenshots: </h3>
 <br>
